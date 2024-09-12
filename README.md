@@ -10,6 +10,6 @@ I enjoy turning complex problems into simple, beautiful, and intuitive solutions
 
 <p align=center>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,go,nodejs,express,py,svelte,tailwind,postgresql,grafana,docker,linux,cloudflare,wordpress" />
+    <img src="https://skillicons.dev/icons?i=rust,actix,go,nodejs,express,py,svelte,tailwind,postgresql,grafana,docker,linux,cloudflare,wordpress" />
   </a>
 </p>
