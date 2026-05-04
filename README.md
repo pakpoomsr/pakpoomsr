@@ -13,3 +13,19 @@ I enjoy turning complex problems into simple, beautiful, and intuitive solutions
     <img src="https://skillicons.dev/icons?i=rust,actix,go,nodejs,express,py,svelte,javascript,typescript,tailwind,postgresql,mysql,raspberrypi,grafana,docker,linux,cloudflare,wordpress,php" />
   </a>
 </p>
+
+## My Open-Source Work
+
+I create and maintain open-source software projects for developers and the community.
+
+### Claude Monitor
+
+[Claude Monitor](https://github.com/pakpoomsr/claude-monitor/) is my open-source project for monitoring and understanding Claude-related usage and workflows.
+
+The project is freely available on GitHub and includes source code, documentation, and ongoing improvements.
+
+## Support My Work
+
+If you find my open-source projects useful, you can optionally leave a tip or sponsor my work.
+
+Tips and sponsorships help support development time, maintenance, documentation, bug fixes, and future improvements.
